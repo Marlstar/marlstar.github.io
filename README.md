@@ -5,5 +5,5 @@
   <!--- Top languages card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlstar&show_icons=true&theme=tokyonight&bg_color=30,000000,434343">
   <!--- Leetcode card -->
-  <img src="https://leetcode-stats-six.vercel.app/api?username=marlstar&theme=dark">
+  <img src="https://leetcode-stats-six.vercel.app/?username=marlstar&theme=dark">
 </div>
