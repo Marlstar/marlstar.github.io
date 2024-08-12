@@ -4,8 +4,6 @@
   <br>
   <!--- Top languages card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlstar&show_icons=true&theme=tokyonight&bg_color=30,000000,434343">
-  <!--- Leetcode card -->
-  <img src="https://leetcode-stats-six.vercel.app/?username=marlstar&theme=dark">
 
   <!--- Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=marlstar&theme=juicyfresh&no-bg=true" />
